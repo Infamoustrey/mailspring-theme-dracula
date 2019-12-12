@@ -1,0 +1,12 @@
+{
+  "name": "mailspring-theme-dracula",
+  "title": "Dracula Theme",
+  "displayName": "Dracula Theme",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "😱 A dark theme for Mailspring",
+  "license": "GPL-3.0",
+  "engines": {
+    "mailspring": "*"
+  }
+}
